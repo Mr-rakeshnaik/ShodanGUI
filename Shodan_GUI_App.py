@@ -665,4 +665,4 @@ if __name__ == "__main__":
         style.configure("TNotebook.Tab", padding=[10, 5], font=('Helvetica', 10))
         style.configure("TButton", padding=6, relief="flat", background="#ccc")
     app = ShodanGUI(root)
-    root.mainloo
+    root.mainloop
