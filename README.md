@@ -134,16 +134,6 @@ Two ways to provide your **Shodan API Key**:
 
 ---
 
-## 🗺 Roadmap  
-
-- Saved searches & collections  
-- WHOIS enrichment & asset tagging  
-- Screenshot previews (where supported)  
-- Export mappers for bug bounty workflows  
-- Extensible plugin architecture  
-
----
-
 ## 🔒 Security & Ethics  
 
 - Use this tool **only on targets you are authorized to test**  
